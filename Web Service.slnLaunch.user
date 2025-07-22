@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Nuevo perfil",
+    "Projects": [
+      {
+        "Path": "CRUD Alumno\\CRUD Alumno.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "ConsumiendoEscritorio\\ConsumiendoEscritorio.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
